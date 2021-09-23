@@ -5,7 +5,11 @@ $background-pale: #D1C4E9;
 
 // Height variables
 $carousel-item-height: 300px;
+<<<<<<< HEAD
 
+=======
+//Scss Mixins
+>>>>>>> bc294180f42ffecb13116abebc6a6c936a55751f
 @mixin zero-margin($pad-up-dn, $pad-left-right) {
 	margin:0px auto;
 	padding: $pad-up-dn $pad-left-right;
@@ -52,7 +56,11 @@ body{
     border-bottom: 1px solid $lt-gray;
     padding: 10px;
 }
+<<<<<<< HEAD
 
+=======
+//Nesting Selectors
+>>>>>>> bc294180f42ffecb13116abebc6a6c936a55751f
 .carousel {
     background:$background-dark;
 
