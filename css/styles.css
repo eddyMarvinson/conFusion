@@ -1,4 +1,3 @@
-//ss
 .row-header {
   margin: 0px auto;
   padding: 0px 0px; }
@@ -53,3 +52,12 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal .modal-header {
+  background: #512DA8;
+  color: white; }
+  .modal .modal-header button {
+    color: white; }
+
+.modal .modal-body {
+  background: #D1C4E9; }
